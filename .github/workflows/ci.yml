@@ -16,6 +16,6 @@ jobs:
       - name: Touch .env
         run: touch .env
       - name: Install tox
-        run: pip install tox
+        run: pip install tox poetry==1.1.14
       - name: Run tox
         run: tox
