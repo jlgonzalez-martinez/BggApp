@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+    <item type="boardgame" id="174430">
+        <thumbnail>https://cf.geekdo-images.com/thumb/img/e7GyV4PaNtwmalU-EQAGecwoBSI=/fit-in/200x150/pic2437871.jpg
+        </thumbnail>
+        <image>url</image>
+
+        <name type="primary" sortindex="1" value="Gloomhaven"/>
+
+
+        <name type="alternate" sortindex="1" value="Gloomhaven, aventures à Havrenuit"/>
+
+        <name type="alternate" sortindex="1" value="Gloomhaven. Мрачная Гавань"/>
+
+        <name type="alternate" sortindex="1" value="Homályrév"/>
+
+        <name type="alternate" sortindex="1" value="幽港迷城"/>
+
+        <name type="alternate" sortindex="1" value="글룸헤이븐"/>
+
+        <description>Test description</description>
+        <yearpublished value="2017"/>
+        <minplayers value="1"/>
+        <maxplayers value="4"/>
+        <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="967">
+
+            <results numplayers="1">
+                <result value="Best" numvotes="107"/>
+                <result value="Recommended" numvotes="410"/>
+                <result value="Not Recommended" numvotes="207"/>
+            </results>
+
+            <results numplayers="2">
+                <result value="Best" numvotes="224"/>
+                <result value="Recommended" numvotes="530"/>
+                <result value="Not Recommended" numvotes="56"/>
+            </results>
+
+            <results numplayers="3">
+                <result value="Best" numvotes="474"/>
+                <result value="Recommended" numvotes="317"/>
+                <result value="Not Recommended" numvotes="24"/>
+            </results>
+
+            <results numplayers="4">
+                <result value="Best" numvotes="304"/>
+                <result value="Recommended" numvotes="381"/>
+                <result value="Not Recommended" numvotes="100"/>
+            </results>
+
+            <results numplayers="4+">
+                <result value="Best" numvotes="4"/>
+                <result value="Recommended" numvotes="33"/>
+                <result value="Not Recommended" numvotes="528"/>
+            </results>
+        </poll>
+        <playingtime value="120"/>
+        <minplaytime value="60"/>
+        <maxplaytime value="120"/>
+        <minage value="14"/>
+        <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="229">
+            <results>
+                <result value="2" numvotes="4"/>
+                <result value="3" numvotes="0"/>
+                <result value="4" numvotes="0"/>
+                <result value="5" numvotes="0"/>
+                <result value="6" numvotes="0"/>
+                <result value="8" numvotes="5"/>
+                <result value="10" numvotes="36"/>
+                <result value="12" numvotes="63"/>
+                <result value="14" numvotes="102"/>
+                <result value="16" numvotes="14"/>
+                <result value="18" numvotes="2"/>
+                <result value="21 and up" numvotes="3"/>
+            </results>
+        </poll>
+        <poll name="language_dependence" title="Language Dependence" totalvotes="50">
+
+            <results>
+                <result level="1" value="No necessary in-game text" numvotes="1"/>
+                <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0"/>
+                <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2"/>
+                <result level="4" value="Extensive use of text - massive conversion needed to be playable"
+                        numvotes="35"/>
+                <result level="5" value="Unplayable in another language" numvotes="12"/>
+            </results>
+        </poll>
+
+
+        <link type="boardgamecategory" id="1022" value="Adventure"/>
+
+
+        <link type="boardgamecategory" id="1020" value="Exploration"/>
+
+
+        <link type="boardgamecategory" id="1010" value="Fantasy"/>
+
+
+        <link type="boardgamecategory" id="1046" value="Fighting"/>
+
+
+        <link type="boardgamecategory" id="1047" value="Miniatures"/>
+
+
+        <link type="boardgamemechanic" id="2689" value="Action Queue"/>
+
+
+        <link type="boardgamemechanic" id="2839" value="Action Retrieval"/>
+
+
+        <link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler"/>
+
+
+        <link type="boardgamefamily" id="25158" value="Components: Miniatures"/>
+
+
+        <link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter"/>
+
+
+        <link type="boardgamefamily" id="45610" value="Game: Gloomhaven"/>
+
+
+        <link type="boardgameexpansion" id="310777" value="Gloomhaven: Beyond the End of the World (Promo Scenario)"/>
+
+
+        <link type="boardgameexpansion" id="250337" value="Gloomhaven: Forgotten Circles"/>
+
+
+        <link type="boardgameexpansion" id="312635"
+              value="Gloomhaven: No Pun Included 2019 Kickstarter (Promo Scenario)"/>
+
+
+        <link type="boardgameexpansion" id="298195" value="Gloomhaven: Return of the Lost Cabal (Promo Scenario)"/>
+
+
+        <link type="boardgameexpansion" id="312638" value="Gloomhaven: Secret Cabal 2020 Kickstarter (Promo Scenario)"/>
+
+
+        <link type="boardgameexpansion" id="297586" value="Gloomhaven: Secrets of the Lost Cabal (Promo Scenario)"/>
+
+
+        <link type="boardgameexpansion" id="226868" value="Gloomhaven: Solo Scenarios"/>
+
+
+        <link type="boardgameexpansion" id="310773" value="Gloomhaven: The Catacombs of Chaos (Promo Scenario)"/>
+
+
+        <link type="boardgameexpansion" id="231934" value="Gloomhaven: The End of the World (Promo Scenario)"/>
+
+
+        <link type="boardgameexpansion" id="300402" value="Gloomhaven: The Lucky Meeple (Promo Scenario)"/>
+
+
+        <link type="boardgameexpansion" id="310754" value="Gloomhaven: The Tower of Misfortune (Promo Scenario)"/>
+
+
+        <link type="boardgameintegration" id="295770" value="Frosthaven"/>
+
+
+        <link type="boardgameintegration" id="291457" value="Gloomhaven: Jaws of the Lion"/>
+
+
+        <link type="boardgamedesigner" id="69802" value="Isaac Childres"/>
+
+
+        <link type="boardgameartist" id="77084" value="Alexandr Elichev"/>
+
+
+        <link type="boardgameartist" id="78961" value="Josh T. McDowell"/>
+
+
+        <link type="boardgameartist" id="84269" value="Alvaro Nebot"/>
+
+
+        <link type="boardgamepublisher" id="27425" value="Cephalofair Games"/>
+
+
+        <link type="boardgamepublisher" id="4304" value="Albi"/>
+
+
+        <link type="boardgamepublisher" id="46179" value="Albi Polska"/>
+
+
+        <link type="boardgamepublisher" id="157" value="Asmodee"/>
+
+
+        <link type="boardgamepublisher" id="22380" value="Feuerland Spiele"/>
+
+
+        <link type="boardgamepublisher" id="15605" value="Galápagos Jogos"/>
+
+
+        <link type="boardgamepublisher" id="40478" value="Games Warehouse"/>
+
+
+        <link type="boardgamepublisher" id="8820" value="Gém Klub Kft."/>
+
+
+        <link type="boardgamepublisher" id="18852" value="Hobby World"/>
+
+
+        <link type="boardgamepublisher" id="8291" value="Korea Boardgames co., Ltd."/>
+
+
+        <link type="boardgamepublisher" id="23756" value="MYBG Co., Ltd."/>
+
+
+        <comments page="1" totalitems="37061">
+            <comment username="clarkkent22" rating="10" value=""/>
+            <comment username="Garroc" rating="10" value="Kickstarter"/>
+            <comment username="Neva Kee" rating="10" value=""/>
+            <comment username="Chris Coyote" rating="10"
+                     value="Awesome. By far the best dungeon crawler I have played yet, with an ingenious legacy system on top. Highly recommended."/>
+            <comment username="Beaushek" rating="10"
+                     value="If you know and want what you&apos;re getting, you&apos;ll be thrilled.  The game is big, stressful, and interesting.  The value is, of course, huge.  I see two issues with the game.  The rulebook is very big and you&apos;ll need your own storage solution.  Normally, I&apos;ll dock part of a point because of issues like that, but this might be my favorite game of all time.  I&apos;m not docking points for needing to use a Plano box, when this game has occupied all of my thoughts.
+
+It&apos;s excellent."/>
+            <comment username="ravenpolar" rating="10" value=""/>
+            <comment username="brenmcgovern" rating="10" value=""/>
+            <comment username="grovermerc" rating="10" value=""/>
+            <comment username="Ronnyknox" rating="10" value=""/>
+            <comment username="webs05" rating="10" value=""/>
+            <comment username="Iguloy" rating="10" value="Kickstarted. Standee version.
+Owned expansion : Forgotten circles
+
+WOW. I can&apos;t emphasize enough how amazing this game is. Best game of 2017 for me, hands down. This is like a dream come true, I couldn&apos;t have asked for better. If you like Legacy games and dungeon crawls... please make yourself a gift and get this. You cannot not play this!
+
+#1 BEST Dungeon crawl
+#1 BEST Legacy game
+#1 BEST Cooperative game
+
+Also one of my SO&apos;s favorite games.
+
+Update after 25 plays : I have now played 25 games of Gloomhaven on normal mode (23W-2L) in 3 weeks and I still can&apos;t wait to play some more. I haven&apos;t played a single other board game since I joined this amazing world. I prefer it with 2 or 3 players. With 4 it&apos;s a bit too long (I&apos;ve played 1 game, but the scenario was pretty long also) but I&apos;d need to try it again just to be sure.
+
+Update after ending the main story: We have now returned to playing other games as there is less addiction to unlock stuff and since we &quot;finished&quot; the game. But boy this was the only thing we could get ourselves to play in 2-3 months. We played over 80 hours I&apos;m pretty sure and we were playing mostly 2-player. This game has a lot to unravel. But for some reason when the campaign was finished we completely stopped. I must say the last two characters we unlocked and played were support characters and the combination in a 2-player game was less interesting."/>
+            <comment username="Slyght" rating="10" value=""/>
+            <comment username="Leonce" rating="10" value=""/>
+            <comment username="Wretched Git" rating="10" value=""/>
+            <comment username="rlphay" rating="10"
+                     value="After play testing this game early in the development I can say that it has come a long way and well worth getting. There is high replay value in this game and endless adventures that make it worth every penny spent. And the unique gameplay is unlike anything out there so you will not be playing the different version of some other game."/>
+            <comment username="testicleez" rating="10" value=""/>
+            <comment username="crwills" rating="10" value="Kickstarted"/>
+            <comment username="WeeGee" rating="10"
+                     value="Very fun game but I found it too difficult with two characters. Don&apos;t have the table space to do 3 characters. "/>
+            <comment username="Azil3" rating="10" value=""/>
+            <comment username="robbin 1" rating="10" value="NR. 1!!!"/>
+            <comment username="mcscowl" rating="10"
+                     value="One of my absolute favorite games. Not saying this as the graphic designer, but as a gamer."/>
+            <comment username="kittenhoarder" rating="10" value=""/>
+            <comment username="Kitarja" rating="10" value=""/>
+            <comment username="calvo" rating="10" value=""/>
+            <comment username="Shampoo4you" rating="10" value=""/>
+            <comment username="Blood Demon" rating="10" value=""/>
+            <comment username="stevelabny" rating="10" value=""/>
+            <comment username="vardamir" rating="10"
+                     value="Damn, I love this game (So much). Coop wasn&apos;t my cup of tea, but this one is an exception. I love how players plan their turns, initiative orders, hand management, character progressions, enemy AI, the campaign and story line, the theme and illustrations, various characters with different play styles, retirement and deck building element in the game. Definitely beats Eclipse from the throne."/>
+            <comment username="Zottelmonster" rating="10" value=""/>
+            <comment username="EdmundBlackadder" rating="10" value=""/>
+            <comment username="gimmster" rating="10" value=""/>
+            <comment username="Clinton" rating="10" value=""/>
+            <comment username="nadurgin" rating="10"
+                     value="Wow, amazing game!  The combat system is the best I have seen yet in a game of this type!"/>
+            <comment username="mergryphon" rating="10" value=""/>
+            <comment username="darcypennell" rating="10" value=""/>
+            <comment username="snorman" rating="10" value=""/>
+            <comment username="Quotho" rating="10" value=""/>
+            <comment username="Kha Od Dro" rating="10" value=""/>
+            <comment username="davidcoleman" rating="10" value="Tier 2:
+
+Most played group game. I plan to play it solo after the group is finished using a printed off map, and perhaps doing things differently.However, solo doesnt grab me enough.
+"/>
+            <comment username="valpop" rating="10" value=""/>
+            <comment username="camidon" rating="10"
+                     value="Fantastic card-based dungeon-crawl campaign game. Isaac Childres has crafted what so many gamers have been looking for: a true fantasy campaign system. There&apos;s story. There&apos;s character progression. The world is alive. Skirting a 10 rating.
+
+Yes there are some &quot;legacy&quot; elements, but I&apos;ll gladly replay this again just with the minor permanent alterations"/>
+            <comment username="repairmanjack" rating="10" value=""/>
+            <comment username="benjamininja" rating="10" value="Gloomhaven: Forgotten Circles (2019)"/>
+            <comment username="jamarre2" rating="10" value=""/>
+            <comment username="tilde72" rating="10"
+                     value="It is an amazing achievement for one person to design and develop a game like this. It truly is &apos;Skyrim in a box&apos; - a great story development mixed with sophisticated dungeon crawler tactics. My only 10 besides Mage Knight at the moment. "/>
+            <comment username="bwarner34" rating="10"
+                     value="Best dungeon crawler I&apos;ve played, both in terms of storyline and in terms of the gameplay. The amount of content is incredible."/>
+            <comment username="olafpkyou" rating="10" value=""/>
+            <comment username="thesumo5" rating="10"
+                     value="I may change this rating after more plays (but not by much), but this is about as perfect for me as a game gets.  I don&apos;t do a lot of 10s, this is a gem."/>
+            <comment username="Tarkan" rating="10" value=""/>
+            <comment username="Electric421" rating="10" value=""/>
+            <comment username="Husky Seahawk" rating="10"
+                     value="The more I have played this game the more I seem to like it. The hand management makes the dungeon crawling and combat tense and satisfying. The character customization is excellent with tons of equipment, lots of cards to build your hand, and ways to adjust your combat deck. Battle goals provide variability to every scenario, and the career goals give you a sense of purpose. Since starting this campaign, I have spent every single day thinking about playing the next scenario."/>
+            <comment username="j41c" rating="10" value=""/>
+            <comment username="chemicalroman" rating="10" value="Febrero 2017"/>
+            <comment username="adjacentbeastman" rating="10" value=""/>
+            <comment username="geobaldi5" rating="10"
+                     value="*Kickstarter Edition*  I&apos;m going to go ahead and call it right now.  I feel this will be the top game of the year for 2017.  As of this note, four campaign missions have been played and the game is just getting better and better as you progress through it.  Really looking forward to seeing how the world, story, and characters flesh out over the massive campaign."/>
+            <comment username="Firetracker" rating="10" value=""/>
+            <comment username="Sassycat" rating="10" value="Absolutely ludicrous amount of content in the box, branching storyline, amazingly unique combat system, fascinatingly different classes, exciting and challenging sense of progression and a fantasy world that shies away from traditional tropes and strikes off on its own path.
+
+Probably most telling of all, I have thought about this game every day since my first playthrough. I cannnot wait to play it again and again. Easy GotY contender, highly deserving of a 10 and I just love it."/>
+            <comment username="MountainRoot" rating="10" value=""/>
+            <comment username="dpbernath" rating="10" value="Backed on Kickstarter
+
+"/>
+            <comment username="Kyellan" rating="10"
+                     value="Gloomhaven has almost entirely consumed my gaming time. Its gameplay definitely favors its Eurogame roots, but it offers RPG growth/customization, story, and legacy consequences. There are many important decisions, both tactical and strategic. Four-player sessions can take a few hours, but we still sometimes play multiple scenarios in a day, when we have the time."/>
+            <comment username="Suit Sage" rating="10" value=""/>
+            <comment username="bwt2q" rating="10"
+                     value="Gloomhaven is, at the time I wrote this, the #1 ranked game on BGG.  I think the consistently high ratings are well deserved.  I have really enjoyed the 7.5 games I&apos;ve played so far (we&apos;re mid-mission right now!).
+
+Gloomhaven is, first and foremost, a kind of optimization puzzle that you solve with 1-3 of your friends.  It has received much criticism because the puzzle is mostly the same, which I think misses the point.  This an excellent puzzle, with a large number of truly meaningful decisions, and scenarios that have very finely honed difficulty.  It&apos;s like a book of Crosswords or Sodoku - if you don&apos;t like the puzzle, a whole book will seem boring.  But if you like the puzzle, then it&apos;s great.  I find the puzzle of Gloomhaven to be absolutely enthralling, and the scenarios do a great job, IMO, of mixing it up enough that I don&apos;t feel like I&apos;m just rinse and repeating my way through the game.  YMMV.  If you&apos;re thinking about buying it, you should know that you can play the first scenario for FREE with any of the first 6 classes on Tabletopia.  See if you like the puzzle before sinking $100 into it.
+
+Aside from the main game, Gloomhaven&apos;s scenarios and campaign are really a labor of love, and it shows throughout.  There are way more enemies here than there really need to be, but it sure is nice to not fight the same 6 enemies all the time.  The standees work well, and keep the game affordable, so I appreciate them even if I still want minis.  Likewise for the character classes - 17 is more variety than most people will ever see, but it&apos;s there for those who want to explore.  I love that you are supposed to play the game to unlock the classes.  Each individual class has an individual set of higher level cards that become accessible as they level up, plus individualized perks that make their modifier deck better.  The modifier deck is brilliant, by the way, and the way you can improve it is simple yet fantastic - one of the many &quot;little&quot; touches that makes Gloomhaven such an amazing creation.
+
+Lastly, I want to mention that I am currently playing Gloomhaven with my kids, who are 11, 9, and 7.  My youngest definitely needs a lot of help figuring out what she wants to do.  I give the 9yo some advice each turn about general group strategy and he plays competently, although not always optimally.  My 11yo plays with zero advice (he wouldn&apos;t listen anyway), and plays very well.  It&apos;s been a great experience."/>
+            <comment username="oskarkapsel" rating="10" value=""/>
+            <comment username="wildinferno" rating="10"
+                     value="Just a great amazing experience. I got lucky I came across this on Kickstarter back in Oct 2015."/>
+            <comment username="Morthai" rating="10" value=""/>
+            <comment username="Akrimas" rating="10"
+                     value="This game is one of the best if not the best dungeon crawler I have ever played. Without spoiling too much - this is an outstanding game and everyone even remotely interested in the genre should try it."/>
+            <comment username="Vex85" rating="10" value="As a playtester I think its pretty more an 11 as a 10 :)
+
+
+"/>
+            <comment username="pixel pusher" rating="10"
+                     value="Incredible game. Certainly not perfect and I had hoped for more outside of the combat, but what is there is very entertaining. Haven&apos;t tired of it yet.
+
+The primary focus of the game is the card play for your actions and the optimization puzzle that presents. Things are dynamic enough that situation never plays out the same and you have a multitude of solutions to getting through things. It takes about 3+ play throughs to see all content. The reality is that your game is going to go differently than someone elses.
+
+The game gives off a rpg video game vibe with branching story decision paths as well as which missions you choose to complete and when influencing how things play out. Fire Emblem/final fantasy tactics the board game? Less Baulders gate and more tactical strategy Jrpg mixed with some Mage Knight &quot;lite&quot;. That may sound like the best thing ever to you or the worst.
+
+Some may prefer games like Shadows of Brimstone over this game. Certainly do your research before buying this. This is definitely a euro game design style. No dice chucking.
+
+Looking forward to what else this designer comes up with.
+
+The version I got was $60 from the first kickstarter. A friend of mine wants it now but he has to pay $140. Ouch. It&apos;s a great game and if I had to do it again I&apos;d pay the $140 but no more than that.
+
+I rate the game a 9 because the legacy aspect makes a score of 10 impossible if strictly going by BGG&apos;s ranking descriptions. However I would unofficially declare it a 10 while you are playing it.
+
+edit: I should also note that I find this game very compelling. Probably the most compelling board game I own. I want to play this every chance I get. I want to play it like I do my most favorite computer games. I have  board games I like a lot, but nothing this compelling to date. This game is really a 10 on my list. It is one of my top 10. Certainly one of my top 5.
+
+edit: I have since found ways to make the game non-permanent. Removable stickers and resources have made it possible for us to replay this numerous times now. So I have bumped my rating up to a 10. Seriously one of the very best games I&apos;ve played and owned to date."/>
+            <comment username="blakdeth" rating="10" value=""/>
+            <comment username="zenmazster" rating="10" value=""/>
+            <comment username="opticode" rating="10" value=""/>
+            <comment username="ReinhartTR" rating="10"
+                     value="This game is a solid ten. It is the [i]only[/i] ten in my collection. It is [i]that[/i] good. The base of the game is it&apos;s tactical dungeon crawling mechanics and they are breathtaking. But what elevates this [i]masterpiece[/i] to the upper echelons of glory and immortality in the hobby is the legacy aspects. You aren&apos;t destroying things, you are [i]building[/i]. Improving the town, unlocking new (wildly varied) classes, slowly sussing out the secrets of the town, the world, opening envelopes, discovering secrets and watching it all unfold before you. Retiring characters gives you new experiences, both as classes and town/road events where you encounter your retired characters. It also gives you access to a book which further fleshes out the world. Some argue the game doesn&apos;t have enough story but there is enough there to enthrall me and help keep my interested in enjoying the marvelous system that Isaac Childres has created, and the world he has envisioned. Everyone I have put this in front of has said something similar, if you can find this for a reasonable price, buy it. Hell, even if the price is [i]slightly[/i] unreasonable, you should still buy it. It&apos;s worth every penny.
+
+You can read my review [geekurl=/thread/1720130/welcome-gloomhaven-initial-impressions-now-50-less]here[/geekurl] if you&apos;re interested. It is by far my best review, but it&apos;s also the longest."/>
+            <comment username="bandersnatch1110" rating="10" value=""/>
+            <comment username="Anemelos" rating="10" value=""/>
+            <comment username="Moggrym" rating="10" value=""/>
+            <comment username="Ghanaka" rating="10" value=""/>
+            <comment username="sonofachung" rating="10" value="3"/>
+            <comment username="Murdockus" rating="10" value=""/>
+            <comment username="sighlance" rating="10" value="
+Wow, the last time I was so exited while playing a game was when I played my first game of Mage Knight. The gameplay feels so awesome that Isaac must have spent a very long time polishing it. I immediately want to play this again!
+"/>
+            <comment username="Dimaradona" rating="10" value=""/>
+            <comment username="robert_stringer22888" rating="10" value="Amazing"/>
+            <comment username="Nyhles" rating="10" value=""/>
+            <comment username="Slumpy" rating="10" value=""/>
+            <comment username="EtherealPaints" rating="10" value="Best Dungeon Crawler I&apos;ve ever played."/>
+            <comment username="Terraformer" rating="10"
+                     value="Had to [lay a few before judging as so much hype. It really is a fully solid 10. Unique and glorious. Sowell balanced, and character classes different from each other but o much more subtle than a normal adventure romp. Love it."/>
+            <comment username="greatredwarrior" rating="10"
+                     value="A simply incredible game.  On one level, it&apos;s a dungeon crawler, but the mechanics of battle using the cards, combined with &quot;resting&quot; and the variable levels/difficulty of the dungeons makes for every scenario being interesting and frequently quite challenging.
+
+Where the game shines though (and gets a 10) is in the campaign.  Unlocking new scenarios, advancing along your personal quest, interacting with the larger world and seeing the city of Gloomhaven grow and improve (or not!).  The non-Tolkien nature of the world is also a breath of fresh air.  Very fun and highly recommended.
+
+Unsleeved"/>
+            <comment username="Dathras" rating="10" value=""/>
+            <comment username="Johnny K" rating="10" value=""/>
+            <comment username="Bajahobo" rating="10" value=""/>
+            <comment username="Drigan" rating="10" value=""/>
+            <comment username="Chubby" rating="10" value=""/>
+            <comment username="Druaightagh" rating="10"
+                     value="Believe the hype!  It is near perfect for me (a RPG in a box/dungeon crawler/legacy game fan)."/>
+            <comment username="valpocarnie" rating="10" value=""/>
+            <comment username="glick9" rating="10" value=""/>
+            <comment username="kirby_j3" rating="10" value=""/>
+            <comment username="RamMegiddo" rating="10" value=""/>
+            <comment username="geoffking" rating="10" value=""/>
+            <comment username="Wickershamb" rating="10" value=""/>
+            <comment username="Ardghal" rating="10"
+                     value="Proud KS Backer! I guess Isaac is going to get immortal with this one. I love Forge War, but this one will probably become a modern classic. BTW I was one of the demo staff at Essen Spiel 2016. GH just plays fantastic!"/>
+            <comment username="gabrie" rating="10" value=""/>
+        </comments>
+
+
+        <statistics page="1">
+            <ratings>
+                <usersrated value="36743"/>
+                <average value="8.82222"/>
+                <bayesaverage value="8.56994"/>
+
+                <ranks>
+                    <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1"
+                          bayesaverage="8.56994"/>
+                    <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1"
+                          bayesaverage="8.56077"/>
+                    <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1"
+                          bayesaverage="8.54142"/>
+                </ranks>
+
+                <stddev value="1.60648"/>
+                <median value="0"/>
+                <owned value="59095"/>
+                <trading value="365"/>
+                <wanting value="1434"/>
+                <wishing value="14977"/>
+                <numcomments value="6915"/>
+                <numweights value="1590"/>
+                <averageweight value="3.8358"/>
+            </ratings>
+        </statistics>
+
+
+        <marketplacelistings>
+            <listing>
+                <listdate value="Sat, 25 Feb 2017 07:28:00 +0000"/>
+                <price currency="CAD" value="350.00"/>
+                <condition value="new"/>
+                <notes value="Would prefer to avoid shipping (since it is such a huge heavy box and shipping costs are a loss for everyone).  Local pick up in the Vancouver area preferred but willing to ship if requested.
+Shipping would be from V3K 1V8 and box is: 46.2 x 34.8 x 26.2cm and 9.7kg"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1145418" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Fri, 03 Nov 2017 10:04:47 +0000"/>
+                <price currency="EUR" value="279.00"/>
+                <condition value="new"/>
+                <notes value="This is a 2nd edition kickstarter version of the game including minis AND the solo scenarios that were offered as an add-on.
+
+Also included are the removable vinyl stickers for the map and achievements (in addition to the non-removable original stickers).
+
+Everything is brand new and unopened."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1334678" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Thu, 14 Dec 2017 18:57:04 +0000"/>
+                <price currency="USD" value="300.00"/>
+                <condition value="new"/>
+                <notes value=""/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1371509" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Fri, 22 Dec 2017 19:51:51 +0000"/>
+                <price currency="USD" value="360.00"/>
+                <condition value="new"/>
+                <notes value="Brand New Kickstarter edition.
+
+This is 22 lbs. of gaming goodness. This game is HUGE!"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1380179" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Thu, 18 Jan 2018 23:16:33 +0000"/>
+                <price currency="EUR" value="139.90"/>
+                <condition value="new"/>
+                <notes value="Second printing/edition - retail edition (it does NOT include the Solo Scenarios - but they are free to download from the internet).
+New from factory, never opened.
+
+Weight with packaging included: 9,9 kg
+Check my shipping cost for 5-10kg to your country.
+Shipment expedition is made in 24 hours after payment."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1400133" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 15 Apr 2018 17:59:30 +0000"/>
+                <price currency="USD" value="250.00"/>
+                <condition value="new"/>
+                <notes value="Unopened Gloomhaven + removable sticker set (opened, but not used) for additional gameplays.
+
+Prefer to deliver in or around San Francisco, but open to shipping.
+
+Paypal, cash or Venmo ok."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1468042" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 30 May 2018 23:04:24 +0000"/>
+                <price currency="USD" value="300.00"/>
+                <condition value="new"/>
+                <notes value="Original retail version, first printing, brand new unopened"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1503303" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Fri, 01 Jun 2018 11:51:37 +0000"/>
+                <price currency="AUD" value="170.00"/>
+                <condition value="new"/>
+                <notes value="1st edition kickstarter"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1504874" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 20 Jun 2018 12:04:47 +0000"/>
+                <price currency="EUR" value="155.00"/>
+                <condition value="new"/>
+                <notes value="Postage within Ireland is 10 euro. UK is 16 euro. Rest of the world, well, very expensive sorry, this is a heavy game and irish post is pricy for big hefty parcels... I&#039;ll be happy to give a quote if asked."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1519583" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Mon, 16 Jul 2018 13:26:56 +0000"/>
+                <price currency="EUR" value="209.00"/>
+                <condition value="new"/>
+                <notes value="New as it comes from the Editor
+Retail version 2018
+paypal add 4%
+
+THE GAME WILL BE SHIPPED WITH A DOUBLE PACKAGE TO AVOID ANY DAMAGE!  =)"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1548437" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Tue, 28 Aug 2018 00:34:32 +0000"/>
+                <price currency="CAD" value="160.00"/>
+                <condition value="verygood"/>
+                <notes value="No sealed envelopes/characters opened. Played ~30 hours."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1578663" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 12 Sep 2018 17:58:23 +0000"/>
+                <price currency="USD" value="140.00"/>
+                <condition value="likenew"/>
+                <notes value="Organized and sorted using FOUR Plano boxes ($30 value), but never been played. All components are present and unmodified, save for 2 stickers which are pre-game setup for the first scenario."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1591679" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Fri, 14 Sep 2018 10:31:56 +0000"/>
+                <price currency="EUR" value="180.00"/>
+                <condition value="likenew"/>
+                <notes value="it is kickstarter edition 2017 completed with solo scenarios
+
+it is new and never played.
+
+just opened in order to check integrity and I&#039;ve ordered and received some parts that were not good
+
+shipment costs to your charge"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1592743" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Tue, 25 Sep 2018 21:13:15 +0000"/>
+                <price currency="USD" value="139.00"/>
+                <condition value="likenew"/>
+                <notes value="I have a used but in excellent condition Gloomhaven 1st edition. I&#039;ve played the 1st quest twice and just couldn&#039;t get into the whole card play mechanic. It&#039;s a great game it&#039;s just not for me. All tokens are punched. Only the Barrow Downs sticker has been peeled and placed. This won&#039;t affect the game in any way since you have to put that sticker down anyways. This copy also contains a Broken Token Gloomhaven insert which retails for $99. This sucker is heavy and we should meet rather than ship. I&#039;m in Murrieta, Ca. Also, the box was shipped with some separation in the corners. I used clear shipping tape to fix and reinforce the lid. It&#039;s so massive it&#039;s like the 1st edition box Cephalofair used wasn&#039;t strong enough. There are no missing parts."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1601508" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Thu, 06 Dec 2018 04:50:54 +0000"/>
+                <price currency="USD" value="175.00"/>
+                <condition value="new"/>
+                <notes value="Still factory sealed, never unboxed."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1692643" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Tue, 11 Dec 2018 04:48:06 +0000"/>
+                <price currency="USD" value="120.00"/>
+                <condition value="new"/>
+                <notes value="Brand new unopended Gloomhaven.  Selling it for personal reasons (wife).
+
+Local pick up only.  Torrance, CA"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1698192" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Fri, 25 Jan 2019 13:53:56 +0000"/>
+                <price currency="USD" value="115.00"/>
+                <condition value="new"/>
+                <notes value=""/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1743900" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Mon, 18 Feb 2019 13:13:52 +0000"/>
+                <price currency="EUR" value="154.99"/>
+                <condition value="new"/>
+                <notes value="Check our website www.outpost.be
+Full list https://www.boardgamegeek.com/geekmarket/user/karadoc
+Shipping Information
+
+Belgium 6 €
+Netherlands/Luxembourg 10 €
+Other European Countries 15 €
+Other continents please reuqest your shipping quote
+
+Bank Transfer to BNP Paribas 001-4570423-53
+Paypal address: paypal@outpost.be
+Bank information for payments form outside Belgium
+IBAN BE53001457042353 BIC GEBABEBB
+
+Check our website www.outpost.be
+Full list https://www.boardgamegeek.com/geekmarket/user/karadoc"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1763666" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 20 Feb 2019 23:59:25 +0000"/>
+                <price currency="AUD" value="175.00"/>
+                <condition value="new"/>
+                <notes value="Second Printing of Gloomhaven
+Kickstarter edition contianing miniatures
+Box is open as shrinkwrap was torn on delivery, but all items are sealed inside.
+
+Pickup from Wahroonga, Alexandria or Burwood available.
+
+Prefer cash for pickup, or DD for posting, thank you."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1766684" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 03 Mar 2019 22:17:25 +0000"/>
+                <price currency="EUR" value="170.00"/>
+                <condition value="good"/>
+                <notes value="Greetings everyone!
+
+After over 500 hours of gameplay and finishing the whole package, I decided to pass on my Gloomhaven.
+It is the second print with the solo scenarios included.
+
+The game has been completly finished, so let me give you a heads up right here:
+~ The game is in a good condition. It is used over about 500 hours but has always been treated carefully and was stored appropriatly.
+~ The game box endured some carrying around.
+~ Some monster standees are a little torn because the included standee holders sometimes are very tight.
+~ ALL components are available, with a minor exception of the non used global achievment stickers regarding other path choices.
+
+~ All Stickers have been mounted onto the world map, aswell as the global achievments following our playthrough; Also, a good amount of cards have been enhanced.
+(We used the available stickers from the base game, NOT the removeable ones!)
+~ The Worldmap has been framed into a picture frame. (I am willing to include this as a separate package if desired; if not the frame will be removed, the map folded and stored into the original box)
+~ All Character boxes, envelopes and other stuff has been opened of course!
+
+~ ALL cards have been sleeved with the original docsmagic sleeves and are additionally stored inside zip-bags if necessary. There are still a lot of left-over sleeves/bags that I will also include.
+~ ALL map tiles are properly stored alphabetically in an accordion folder.
+~ ALL items are stored in a proper folder which is treated as a &quot;shop&quot; this way. (Locked items turned down, unlocked items faced up)
+~ Road/City events, random dungeon generator and life time goals are stored in a 4-divided-limpid box.
+~ ALL the remaining parts of the game have been carefully sorted and stored into plano boxes.
+(My setup time never exceeded 10 minutes thanks to the orginization)
+~ Some character sheets have been used. If you need more, basically all of them are available as printed .pdf-versions here on BGG.
+
+The price includes FREE shipping in most parts of EU, however I am willing to ship worldwide, so write a message if you are interested from abroad.
+You can pay via PayPal friends or Bank Wire Transfer.
+
+If you have any questions or want to see some additional pictures feel free to send me a message! :)"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1775709" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Thu, 07 Mar 2019 08:26:40 +0000"/>
+                <price currency="EUR" value="139.00"/>
+                <condition value="likenew"/>
+                <notes value="The game is practically like new, cards still in their original packaging to be opened, all the material is still sealed, has only been punched, plus I add removable stickers.
+
+Payment can be done by:
+
+A. Bank transfer
+B. Paypal"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1778485" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 28 Apr 2019 08:55:58 +0000"/>
+                <price currency="USD" value="13.99"/>
+                <condition value="new"/>
+                <notes value="My deck organizer will really up your Gloomhaven game. We all love Gloomhaven, but really adding some organization can make the whole experience way better. Your buddy Mike is gonna spill his beer someday, and mess up your cards. the day will come when Suzie scatters everything with a good sneeze. Be honest, you don&#039;t want that. Get my friggin&#039; dope organizer and parry the wiles of game day mayhem; only then will you be truly winning.
+
+Let me know which color you prefer, I&#039;ve got red, blue, black, yellow, grey, purple, white, and green!
+
+Ships FREE domestically from Texas! Message me, for any international shipping arrangements. Thank you!
+
+You can find more of my HUGE selection of organizers here: https://www.etsy.com/shop/M3is3D"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1830656" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 28 Apr 2019 09:03:31 +0000"/>
+                <price currency="USD" value="10.99"/>
+                <condition value="new"/>
+                <notes value="Look guys, you don&#039;t need all that.
+
+Sure, you could pay $25 and get a player dashboard that props up your cards instead of them laying on the table, but why? Why is putting those cards in a slot worth a full $16?
+
+Just get my super-cool, sleek dashboard, and you&#039;ll be playing in style without shelling out a ridiculous amount of coin, for no real reason. Let me know which color you prefer, I&#039;ve got red, blue, black, yellow, grey, purple, white, and green!
+
+Also, if you want to get a set for your whole crew, we can work something out.
+
+Ships from Austin, Texas! Check out my other Gloomhaven stuff, I have some really great deck organizers and stuff you&#039;ll probably love. Have a great day!
+
+You can find more of my HUGE selection of organizers here: https://www.etsy.com/shop/M3is3D
+-
+
+Gloomhaven Character Dashboard Simple with Storage Top by schleprocker
+Published on October 25, 2018
+www.thingiverse.com/thing:3175718"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1830657" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 28 Apr 2019 09:09:56 +0000"/>
+                <price currency="USD" value="14.99"/>
+                <condition value="new"/>
+                <notes value="You could get a lot of Gloomhaven Dashboards, but don&#039;t you wanna keep track of your XP and Health? Now you can, my friend!
+
+Comes in your favorite color, custom orders available!
+
+Ships from Austin, Texas! Check out my other Gloomhaven stuff, I have some really great deck organizers and stuff you&#039;ll probably love. Have a great day!
+
+You can find more of my HUGE selection of organizers here: https://www.etsy.com/shop/M3is3D
+
+Gloomhaven compact dashboard with trackers by DocKuro is licensed under the Creative Commons - Attribution license. https://www.thingiverse.com/thing:3474938"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1830660" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Tue, 30 Apr 2019 07:25:30 +0000"/>
+                <price currency="USD" value="10.99"/>
+                <condition value="new"/>
+                <notes value="You know it, I know it, organization is key. Your Gloomhaven game is gonna rock with this character organizer!
+
+Accommodates ability, attack modifier and item cards in separate dividers, plus class tokens and the miniature (for most classes). For storage, the health/xp dial, character sheet and character mat/card are placed on top.
+
+You can totally use during play also, so it&#039;s really a win-win. This organizer would also probably work for many other tabletop games, like Scythe, Founders of Gloomhaven, Terraforming Mars, etc.
+
+Works with sleeved cards! Let me know which color you prefer, I&#039;ve got red, blue, black, yellow, grey, purple, white, and green!
+
+You can find more of my HUGE selection of organizers here: https://www.etsy.com/shop/M3is3D
+
+-
+
+Gloomhaven Character Storage Tray by rally25rs is licensed under the Creative Commons - Attribution license. Published on February 18, 2018. www.thingiverse.com/thing:2798522
+Creative Commons - Attribution"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1832086" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 26 May 2019 10:55:50 +0000"/>
+                <price currency="EUR" value="35.00"/>
+                <condition value="new"/>
+                <notes value="ESSENTIAL UPGRADE - Enemy life tracker
+
+1 x Monster Modifier Deck
+6 x Monster Deck Holder
+16 x Normal Monster Standee
+8 x Elite Monster Standee
+2 x Special Standee (monster standee in a different color for bosses, special enemies, allies, etc)
+
+Notes:
+- Dice not included.
+- You will need about 30 or 40 dice (12mm), depending on the number of players.
+- 3d Printed"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1853180" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Tue, 28 May 2019 14:41:51 +0000"/>
+                <price currency="EUR" value="149.99"/>
+                <condition value="new"/>
+                <notes value=""/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1854721" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 20 Oct 2019 09:32:02 +0000"/>
+                <price currency="EUR" value="125.00"/>
+                <condition value="likenew"/>
+                <notes value="In great shape, played only few hours. Feel free to ask for photos and shipping charges.
+Accept Bitcoins, Paypal or Wire Transfer, worldwide shipping.
+
+Kickstarter Edition of Gloomhaven.
+GLOOMHAVEN WITH MINIS - 1 copy of GLOOMHAVEN with miniatures (1 miniature for each character class).
+This tier includes all stretch goals.
+Gloomhaven second printing
+Upgrade combo pack
+This level includes three previous levels at a reduced price for those who own the first printing.
+INCLUDES:
+Four health and experience dials
+Rule book and scenario book upgrades
+Solo scenario book"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1976260" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Mon, 11 Nov 2019 21:44:04 +0000"/>
+                <price currency="USD" value="70.00"/>
+                <condition value="new"/>
+                <notes value="NOTE: This is NOT for the game Gloomhaven. This is the Broken Token organizer for Gloomhaven which is unopened in box."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1995224" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 13 Nov 2019 15:48:55 +0000"/>
+                <price currency="EUR" value="135.00"/>
+                <condition value="new"/>
+                <notes value="Brand new copy of the game, in shrink wrap.
+
+Shipping to Europe would be 40-50 euros, depending on location, and the package should arrive in 7-10 days. Elsewhere – please ask!
+
+Check out my other products for sale as well! If you buy multiple items, I will combine shipping costs. It’s much cheaper this way."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/1996737" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Thu, 21 Nov 2019 15:58:11 +0000"/>
+                <price currency="EUR" value="90.00"/>
+                <condition value="likenew"/>
+                <notes value="The game has just been played half of the first scenario. There is a small dent to one of the edges of the box.
+
+Due to its massive size, shipping is limited to certain european countries (ask before buying). Paypal (add 4%), SEPA or Revolut payment accepted."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2003649" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sat, 21 Dec 2019 18:42:00 +0000"/>
+                <price currency="EUR" value="90.00"/>
+                <condition value="likenew"/>
+                <notes value="only play one time.  The prize of transport must be added  at the prize of the game, depending where you come from"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2026486" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Tue, 24 Dec 2019 14:12:24 +0000"/>
+                <price currency="USD" value="122.00"/>
+                <condition value="new"/>
+                <notes value="Brand New, Factory Sealed, latest printing, 2020 edition"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2028069" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Fri, 03 Jan 2020 23:14:18 +0000"/>
+                <price currency="CAD" value="150.00"/>
+                <condition value="likenew"/>
+                <notes value="Only played a couple of the missions for 3 characters only. Everything else is like new.
+Includes the Broken Token Gloomhaven Insert"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2035356" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 08 Mar 2020 11:44:19 +0000"/>
+                <price currency="USD" value="90.00"/>
+                <condition value="good"/>
+                <notes value="All pieces are still present, the main six characters have been painted. the campaign map is clear and all stickers still accounted for. The only &quot;used part&quot; is the prosperity section on the campaign map.
+Cash Price R1500
+Shipping paid for by purchaser"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2097037" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 15 Mar 2020 00:05:48 +0000"/>
+                <price currency="USD" value="875.00"/>
+                <condition value="verygood"/>
+                <notes value="Help pass the days stuck in home with this deluxe Wall and Floor set for Gloomhaven the Boardgame.
+-I built this set using the plans from Hirst Arts (https://www.hirstarts.com/gloom/gloom.html). I played through the entire campaign using this set and it adds soo much to our game nights. You become much more immersed with the 3D set and it looks gorgeous on the table.
+-All pieces are made out of dental stone, molded, primed and hand inked and painted.
+-The bottom of each piece is layered with cork or foam so table tops are not scratched.
+-The pieces have a satisfying weight to them.
+A substantial amount of time went into building this set, over 80 hours ? Each piece needs to be built individually and glued together. Then primed, dry brushed with numerous layers, lacquered with a matte finish, bottom finished with cork or foam, and finally labeled (floor tiles).
+-The floor tiles are labeled to correspond with the tiles in the game. Pictured below is scenario 1. I built the scenario showing double doors because I thought it looked cool, but you can build it anyway you want. This shows the flexibility you have when building the rooms. Floor tiles required for that scenario are L, G, and I. I have a label on the back of each tile.
+Whats included:
+All floor pieces to run every scenario in the base game. -30-
+Enough wall pieces to run any scenario in the base game -54-
+6 doors molded and painted
+6 crates
+2 tables
+3 barrels
+6 single floor spaces to link boards together.
+-Once purchased I will send you a video to make a storage box. Unfortunately, with shipping constraints I&#039;m not able to send the box I normally used to store the pieces. With pick up you&#039;ll have the storage boxes.
+-This set is unfortunately heavy. Shipping base cost is set to $100. I will adjust from there for location. The optimal purchase would be pickup, I understand that&#039;s not always available.
+
+If you have further questions/pictures please reach out to me ?"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2101516" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 05 Apr 2020 07:32:09 +0000"/>
+                <price currency="EUR" value="220.00"/>
+                <condition value="new"/>
+                <notes value="inkl. der Erweiterung Forgotten Circles und der Soloszenarien.
+
+Versand in Deutschland 17,49€ per DHL da es die 10kg Marke bricht."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2118615" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 05 Apr 2020 20:39:43 +0000"/>
+                <price currency="EUR" value="99.00"/>
+                <condition value="likenew"/>
+                <notes value="INCLUDED:
+
+https://www.facebook.com/saimlab/posts/inserto-compatibile-per-il-gioco-gloomhaven/1676957669277913/
+https://www.sinisterfish.com/product/gloomhaven-removable-sticker-set-retail/"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2118948" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Fri, 10 Apr 2020 12:41:35 +0000"/>
+                <price currency="EUR" value="250.00"/>
+                <condition value="new"/>
+                <notes value="En français, new in shrink, please contact me for shipping costs first (heavy box)"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2121776" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Thu, 23 Apr 2020 04:52:56 +0000"/>
+                <price currency="USD" value="110.00"/>
+                <condition value="new"/>
+                <notes value="Unpunched, unplayed, you pay for shipping"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2132279" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sat, 02 May 2020 18:09:11 +0000"/>
+                <price currency="EUR" value="150.00"/>
+                <condition value="new"/>
+                <notes value=""/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2138688" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 03 May 2020 06:57:22 +0000"/>
+                <price currency="USD" value="150.00"/>
+                <condition value="verygood"/>
+                <notes value="Hello,
+
+I sell gloomhaven with organizer (broken token)
++ extension Forgotten Circles
++ removable stickers
+
+Game is partially sleeved (I join remaining sleeve to finish the job)"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2139035" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 03 May 2020 12:52:28 +0000"/>
+                <price currency="USD" value="235.00"/>
+                <condition value="new"/>
+                <notes value="Never played. Brand new in box."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2139225" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Tue, 05 May 2020 01:03:35 +0000"/>
+                <price currency="USD" value="210.00"/>
+                <condition value="likenew"/>
+                <notes value="Like New just opened to verify components. Never played in excellent condition"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2140552" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Fri, 08 May 2020 15:12:43 +0000"/>
+                <price currency="EUR" value="115.00"/>
+                <condition value="new"/>
+                <notes value=""/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2143417" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Mon, 18 May 2020 18:13:42 +0000"/>
+                <price currency="USD" value="150.00"/>
+                <condition value="new"/>
+                <notes value="NIB. Box says Fifth Printing 2018."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2150992" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 20 May 2020 16:10:23 +0000"/>
+                <price currency="CAD" value="120.00"/>
+                <condition value="verygood"/>
+                <notes value="Very good condition, played a handful of times (first 2-3 scenarios) but most starting characters unopened.  Removable sticker pack was used, original stickers still unused.  Missing party tracker but can be downloaded/printed as pdf from BGG.  Insert completely removed to improve storage.
+
+Email money transfer preferred or +3/5% for PayPal."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2152309" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 20 May 2020 16:38:56 +0000"/>
+                <price currency="USD" value="175.00"/>
+                <condition value="new"/>
+                <notes value="NIS.  Includes Solo Scenarios.  From the 2nd Kickstarter, never opened.
+
+Thought I was going to play it again (I was an original backer), but never seemed to have gotten around to it.  Time for someone else to have fun with it!"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2152321" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 27 May 2020 15:39:44 +0000"/>
+                <price currency="USD" value="134.99"/>
+                <condition value="new"/>
+                <notes value="CLS Games - Atlanta&#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta!
+
+1x GLOOMHAVEN 2018 U.S. RETAIL EDITION BASE GAME
+1x GLOOMHAVEN FORGOTTEN CIRCLES EXPANSION
+-----------------------------
+TOTAL = $134.99
+
+Cephalofair Games [CPH 0204 and CPH 0211]
+
+SHIPPING
+Continental U.S. - Estimated $27.95 to $44.95
+Alaska, Hawaii, and U.S. Territories - TBD
+International - Estimated $119 to $169"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2157853" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Thu, 28 May 2020 12:14:00 +0000"/>
+                <price currency="USD" value="170.00"/>
+                <condition value="verygood"/>
+                <notes value="Includes Broken Token insert and removable sticker pack. Local in Ohio, shipping might be cost prohibitive."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2158455" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Fri, 29 May 2020 09:56:39 +0000"/>
+                <price currency="USD" value="110.00"/>
+                <condition value="likenew"/>
+                <notes value="Pretty much brand new.  I opened it, punched it out, and never played it.
+
+$110 + shipping"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2159223" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Fri, 29 May 2020 18:33:24 +0000"/>
+                <price currency="USD" value="135.00"/>
+                <condition value="likenew"/>
+                <notes value="Opened and tried to sort. Got exhausted from all the pieces and put it back together."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2159597" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sat, 06 Jun 2020 12:44:26 +0000"/>
+                <price currency="GBP" value="165.00"/>
+                <condition value="likenew"/>
+                <notes value="DUE TO WEIGHT AND VALUE, I WILL ONLY DELIVER TO UK, OR IT CAN BE COLLECTED FROM ME IN WINSFORD, CHESHIRE (WITH SAFETY PRECAUTIONS).
+
+Includes fourth printing of Gloomhaven, solo scenarios, Forgotten Circles expansion, and removable sticker sheets for the base game and expansion. Everything complete and like new.
+
+The Gloomhaven box has been opened but has never been played, and everything is still unpunched and still sealed. The Forgotten Circles expansion has also been opened but never played, and the contents are still sealed. There is a small crease on the Forgotten Circles box lid.
+
+Please message me if you are interested and have any questions.
+
+Thanks, Alex"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2165848" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sat, 06 Jun 2020 20:18:07 +0000"/>
+                <price currency="USD" value="122.99"/>
+                <condition value="new"/>
+                <notes value="CLS Games - Atlanta&#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new &amp; still in factory shrink-wrap.
+
+GLOOMHAVEN 2020 EDITION: $122.99
+Cephalofair Games [CPH 0204]
+
+SHIPPING
+Continental U.S. - Estimated $24.95 to $39.95
+Alaska, Hawaii, and U.S. Territories - TBD
+International - Estimated $109 to $159"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2167430" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Mon, 08 Jun 2020 13:15:24 +0000"/>
+                <price currency="USD" value="129.00"/>
+                <condition value="verygood"/>
+                <notes value="Moving sale!
+
+Only played this solo once.  I have placed stickers on map for first two locations and dare not remove to thwart any damage to board.  This will not affect play at all.  All hidden boxes are unopened as I never reached any goals in the game.  Four plastic boxes (see photos) will be shipped with game as they hold most needed game counters and/or monster standees.  The game is in pristine gaming condition along with the box.
+
+Shipping:
+I will probably send this in two boxes to prevent damage to core game box.
+Local pickup in Frederick Maryland area also works.
+
+I accept any of the following four methods of payment:
+(1) PayPal
+(2) Money Order (From U.S. Post Offices Only)
+(3) Cash (U.S. Dollars only) (COD)  in local transaction to 21701 zip code"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2173601" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 10 Jun 2020 16:11:55 +0000"/>
+                <price currency="USD" value="100.00"/>
+                <condition value="verygood"/>
+                <notes value="Only played once, includes removable sticker pack (not used).  There is 1 damaged component, a monster, however the rest of the game is complete and in great condition."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2175234" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Thu, 11 Jun 2020 20:27:25 +0000"/>
+                <price currency="USD" value="125.00"/>
+                <condition value="verygood"/>
+                <notes value="Game is in great condition.  Has been played a few times.  All small cards have been sleeved and are boxed. Some large skill cards have been sleeved as well.  Two removable stickers have been applied to the board.  Set includes all other original stickers and removable sticker set.
+
+Only the first six classes have been opened.  No other classes have been opened.   No envelopes have been opened.
+
+Enemies are stored in labeled, Altoid (Brand New) style tins with standees and monster deck.  Tiles are stored in Plano cases.
+
+Also included are four official player mats from Quiver gaming.
+
+Shipping will be from Louisville, KY. Zip code 40241.  Box will be heavy. Around 22 pounds."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2176477" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 17 Jun 2020 17:43:25 +0000"/>
+                <price currency="USD" value="100.00"/>
+                <condition value="verygood"/>
+                <notes value="Includes Broken Token Insert ($88 value).
+Game has been played about 7 times. Map board has some stickers on it but nothing has been destroyed. Overall in great shape.
+Some cards are sleeved. Sleeves will be included for the rest.
+
+BIG AND HEAVY, especially with BT insert. Not recommended if you live outside of the midwest due to shipping rate."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2181340" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Fri, 19 Jun 2020 11:43:52 +0000"/>
+                <price currency="EUR" value="180.00"/>
+                <condition value="likenew"/>
+                <notes value=""/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2187901" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Tue, 23 Jun 2020 08:58:52 +0000"/>
+                <price currency="EUR" value="125.00"/>
+                <condition value="likenew"/>
+                <notes value="Unpacked and put a lot of the stuff in plastic bags. Opened some of the cards and two charakters (all packed together like new again). All Stickers and envelops are untouched.
+
+Tried out the first scenario first room and then stopped playing. Therefore, it basically unused condition with some extra plastic bags for better order."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2191544" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sat, 27 Jun 2020 18:53:46 +0000"/>
+                <price currency="USD" value="110.00"/>
+                <condition value="new"/>
+                <notes value="New in shrink. Shipping from Ohio."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2194306" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sat, 27 Jun 2020 22:18:24 +0000"/>
+                <price currency="USD" value="100.00"/>
+                <condition value="verygood"/>
+                <notes value="This includes the first edition of Gloomhaven (including minis and cypher postcard), the reprinted solo scenarios, the reprinted rulebook, the reprinted scenario book, four health/exp trackers, the Forgotten Circles expansion, the re-usable sticker set for the base game, and the re-usable sticker set for the Forgotten Circles expansion. I played through almost the full campaign for the original game. The Forgotten Circles expansion is open, but un-played.
+
+I took a couple of hours to re-set the game to essentially the initial state that it would be in when you opened a new copy (aside from everything being punched out and already-organized in the box). However, below is a comprehensive list of all the ways this used copy is distinct from a band new copy. I&#039;m happy to send pictures of any of the below deviances:
+
+(1) The most glaring, and therefore the first, thing to note is that this copy does not appear to contain item number 124. I never came across this item when playing through the campaign, but when I was reviewing all of the components, I noticed this item card appears to be missing. Here is a spoiler link to the card, in case you are interested: https://gloomhavendb.com/items/124. Other than this, all of the pieces in the game are present and accounted for. I have no idea how I misplaced that.
+(2) There is some damage on one of the corners of the bottom box. It doesn&#039;t at all affect the usability or stability of the box, but is noticeable after you take off the top half.
+(3) The Scoundrel and Brute minis have some painting already done on them.
+(4) The permanent stickers for the first two scenarios are already on the map
+(5) The donations tracker for the Sanctuary is already on the map
+(6) A couple of the removable stickers are damaged. Most of the stickers for scenarios located on a crease on the map are cut in two, to allow for the map to fold. A Some of the stickers have some minor wrinkling that occurred when I removed them from the map
+(7) A small smattering of class cards have enhancements on them. I didn&#039;t take the time to go through the cards and remove the 5-10 enhancements that I applied over the course of the campaign. They are all removable stickers, though, so it should be easy enough to take them off when you encounter them."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2194406" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sun, 28 Jun 2020 09:56:44 +0000"/>
+                <price currency="EUR" value="120.00"/>
+                <condition value="new"/>
+                <notes value="Game weight: 10 kg
+IN STOCK"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2194603" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Mon, 13 Jul 2020 10:55:24 +0000"/>
+                <price currency="EUR" value="119.50"/>
+                <condition value="new"/>
+                <notes value=""/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2217021" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Mon, 13 Jul 2020 21:10:31 +0000"/>
+                <price currency="EUR" value="120.00"/>
+                <condition value="new"/>
+                <notes value="The game is not in shrink anymore, but it has never been played. All hidden characters and cards are still sealed in their respective boxes. Solo scenarios included. Neoprene player mats included. This is a large and heavy game therefore shipping may turn to be expensive.
+
+
+Payment with:
+IBAN
+or
+Paypal (+6% extra costs for Paypal)
+
+
+Please ask for the shipping cost before you buy it. For nonEU European countries, extra fees may apply due to customs."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2217489" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Mon, 27 Jul 2020 21:18:21 +0000"/>
+                <price currency="CAD" value="140.00"/>
+                <condition value="verygood"/>
+                <notes value="Played a number of times using the sinister fish reusable sticker pack, some of the characters only have a few sheets left so you may have to print some character sheets for this copy.  also comes with the health and XP trackers included in the 2nd edition.  As well as an unopened copy of forgotten circles and the reusable sticker pack for it.  I also have the broken token insert for the game built and in the main box as well as the upgrade for the forgotten circles which is new in shrink."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2237752" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 29 Jul 2020 07:28:56 +0000"/>
+                <price currency="EUR" value="75.00"/>
+                <condition value="verygood"/>
+                <notes value="My copy of Gloomhaven is in great gondition, i stick one sticker only."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2239036" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Wed, 29 Jul 2020 10:57:24 +0000"/>
+                <price currency="EUR" value="110.00"/>
+                <condition value="verygood"/>
+                <notes value="The game includes the removable sticker pack to play as many campaigns as you want and a token organiser. It also comes with the 4 base miniatures painted."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2239122" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Thu, 30 Jul 2020 16:01:52 +0000"/>
+                <price currency="EUR" value="142.00"/>
+                <condition value="new"/>
+                <notes value="Title: Gloomhaven
+Publisher: Cephalofair Games
+Language(s): English"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2244480" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sat, 01 Aug 2020 08:36:04 +0000"/>
+                <price currency="EUR" value="169.00"/>
+                <condition value="new"/>
+                <notes value="Language: english
+Edition Year: 2018
+Publisher: Cephalofair Games
+Game Condition: Mint
+Box Condition: Mint
+Notes: Retail edition
+Availability: Now Available
+ID Gis: 28457 (for reference)"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2253571" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Sat, 01 Aug 2020 11:11:10 +0000"/>
+                <price currency="EUR" value="118.49"/>
+                <condition value="new"/>
+                <notes value="New in shrink, sixth printing, 2020 edition (latest)
+
+[b]Seller info
+My feedback[/b] - https://boardgamegeek.com/geekmarket/user/unq_flipmo/feedback
+SALE LIST - check my complete list of games and promos for sale: https://boardgamegeek.com/geekmarket/user/unq_flipmo ; but you can ask me about ~any game really, I probably have it
+
+[b]Shipping[/b]
+flat shipping worldwide, contact me for exact shipping costs
+lower shipping rates for Greece, Hungary, Bulgaria
+will discount shipping for multiple purchases
+
+[b]Payment[/b]
+PayPal - if payment is made with option [i]Sending to a friend or family[/i] no extra % is needed; if not 5% to be added as PayPal fees
+bank transfer via SEPA, IBAN - no fees
+Revolut - no fees"/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2253613" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Tue, 04 Aug 2020 03:56:33 +0000"/>
+                <price currency="USD" value="85.00"/>
+                <condition value="verygood"/>
+                <notes value="Played once and completely reset. Contents bagged, no insert. Included removable sticker set."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2256665" title="marketlisting"/>
+            </listing>
+            <listing>
+                <listdate value="Tue, 04 Aug 2020 14:48:29 +0000"/>
+                <price currency="USD" value="80.00"/>
+                <condition value="new"/>
+                <notes value="Brand new. Buyer pays for shipping (it&#039;s a heavy game) from 70003. ~ 30 dollars to ship."/>
+                <link href="https://boardgamegeek.com/geekmarket/product/2256997" title="marketlisting"/>
+            </listing>
+        </marketplacelistings>
+
+    </item>
+</items>

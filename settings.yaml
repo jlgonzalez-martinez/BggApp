@@ -1,0 +1,16 @@
+default:
+  bgg_url: "https://www.boardgamegeek.com/xmlapi2/thing?ratingcomments=1&stats=1&id="
+  database:
+    user: "bgappuser"
+    password: "bgapppass"
+    host: "localhost"
+    port: "5432"
+    database: "bgapp"
+
+testing:
+  database:
+    user: "bgappuser"
+    password: "bgapppass"
+    host: "localhost"
+    port: "5432"
+    database: "bgapptest"
