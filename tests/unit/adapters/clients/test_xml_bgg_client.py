@@ -1,3 +1,4 @@
+import os
 from http import HTTPStatus
 from unittest.mock import MagicMock
 
@@ -10,6 +11,7 @@ from boardgame.adapters.clients.dto import (
 )
 from boardgame.adapters.clients.exceptions import BoardgameGeekException
 from boardgame.adapters.clients.xml_bgg_client import XmlBggClient
+from config import TEST_RESOURCES
 from tests.unit.fakes import FakeHttpClient
 
 
@@ -34,9 +36,7 @@ class TestXmlBggClient:
     @pytest.fixture
     def bgg_response(self):
         """XML response."""
-        with open(
-            "/Users/zelui/personal/BggApp/tests/_resources/boardgame.xml", "r"
-        ) as f:
+        with open(os.path.join(TEST_RESOURCES, "boardgame.xml"), "r") as f:
             content = f.read()
         return content
 
