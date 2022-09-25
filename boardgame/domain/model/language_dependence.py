@@ -43,7 +43,7 @@ class LanguageDependence:
         Total votes in the language dependence poll
         Returns: Total votes
         """
-        return self.very_high + self.low + self.medium + self.high + self.very_high
+        return self.very_low + self.low + self.medium + self.high + self.very_high
 
     @property
     def grade(self) -> LanguageDependenceGrade:

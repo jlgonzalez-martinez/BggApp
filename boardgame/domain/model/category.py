@@ -1,17 +1,15 @@
+""" Category type module """
+import json
+import os
+from enum import IntEnum
 from dataclasses import dataclass
 
 from boardgame.domain.model.aggregate import Aggregate
+from config import DATA_RESOURCES
 
-""" Category type module """
-from enum import IntEnum
 
-# from config import DATA_PATH
-#
-#
-# with open(os.path.join(DATA_PATH, 'categories.json')) as json_file:
-#     REVISED_CATEGORIES = json.load(json_file)
-
-REVISED_CATEGORIES = {}
+with open(os.path.join(DATA_RESOURCES, "categories.json")) as json_file:
+    REVISED_CATEGORIES = json.load(json_file)
 
 
 class CategoryType(IntEnum):
