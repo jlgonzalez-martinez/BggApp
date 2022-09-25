@@ -8,4 +8,6 @@ settings = Dynaconf(
     settings_files=["settings.yaml", ".secrets.yaml"],
 )
 
-TEST_RESOURCES = os.path.join(os.path.dirname(__file__), "tests", "_resources")
+BASE_DIR = os.path.dirname(__file__)
+DATA_RESOURCES = os.path.join(BASE_DIR, "_resources")
+TEST_RESOURCES = os.path.join(BASE_DIR, "tests", "_resources")
