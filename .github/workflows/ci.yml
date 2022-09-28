@@ -11,6 +11,8 @@ jobs:
   unit-test:
     uses: ./.github/workflows/unit-test.yml
     needs: lint
+    secrets:
+      token: ${{ secrets.CODECOV_TOKEN }}
   integration-test:
     uses: ./.github/workflows/integration-test.yml
     needs: lint
