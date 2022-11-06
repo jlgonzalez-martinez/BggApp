@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: env-configmap
+data:
+  BGAPP_DATABASE__DATABASE: '{{ .Values.database.name }}'
+  BGAPP_DATABASE__USER:  '{{ .Values.database.user }}'
+  BGAPP_DATABASE__PASSWORD:  '{{ .Values.database.password }}'
+  BGAPP_DATABASE__HOST: '{{ .Values.database.host }}'
+  BGAPP_DATABASE__PORT: '{{ .Values.database.port }}'
+  CONN_MAX_AGE: '{{ .Values.database.conn_max_age }}'
+
