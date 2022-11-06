@@ -1,0 +1,59 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api
+  labels:
+    app: api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: api
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: api
+    spec:
+      containers:
+        - env:
+            - name: BGAPP_DATABASE__DATABASE
+              valueFrom:
+                configMapKeyRef:
+                  key: BGAPP_DATABASE__DATABASE
+                  name: env-configmap
+            - name: BGAPP_DATABASE__USER
+              valueFrom:
+                configMapKeyRef:
+                  key: BGAPP_DATABASE__USER
+                  name: env-configmap
+            - name: BGAPP_DATABASE__PASSWORD
+              valueFrom:
+                configMapKeyRef:
+                  key: BGAPP_DATABASE__PASSWORD
+                  name: env-configmap
+            - name: BGAPP_DATABASE__HOST
+              valueFrom:
+                configMapKeyRef:
+                  key: BGAPP_DATABASE__HOST
+                  name: env-configmap
+            - name: BGAPP_DATABASE__PORT
+              valueFrom:
+                configMapKeyRef:
+                  key: BGAPP_DATABASE__PORT
+                  name: env-configmap
+          image: api
+          imagePullPolicy: IfNotPresent
+          name: bgapp-api
+          ports:
+            - containerPort: 9000
+          resources: {}
+          volumeMounts:
+            - mountPath: /app
+              name: api-claim
+      restartPolicy: Always
+      volumes:
+        - name: api-claim
+          persistentVolumeClaim:
+            claimName: api-claim

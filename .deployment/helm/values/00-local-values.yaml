@@ -1,0 +1,7 @@
+database:
+  host: postgres
+  port: 5432
+  conn_max_age: 60
+  name: bgapp
+  user: bgappuser
+  password: bgapppass
