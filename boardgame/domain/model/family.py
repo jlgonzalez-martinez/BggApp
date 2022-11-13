@@ -7,7 +7,6 @@ from boardgame.domain.model.aggregate import Aggregate
 class Family(Aggregate):
     """Family class"""
 
-    version_number: int = 0
     name: str = ""
     description: str = ""
 

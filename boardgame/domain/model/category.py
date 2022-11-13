@@ -12,7 +12,7 @@ with open(os.path.join(DATA_RESOURCES, "categories.json")) as json_file:
     REVISED_CATEGORIES = json.load(json_file)
 
 
-class CategoryType(IntEnum):
+class CategoryEnum(IntEnum):
     """Category type enum class"""
 
     COMPONENT = 0
@@ -50,10 +50,9 @@ class CategoryType(IntEnum):
 class Category(Aggregate):
     """Category class"""
 
-    version_number: int = 0
     name: str = ""
     description: str = ""
-    category_type: CategoryType = CategoryType.DEFAULT
+    category_type: CategoryEnum = CategoryEnum.DEFAULT
 
     def __hash__(self):
         return hash(self.name)
