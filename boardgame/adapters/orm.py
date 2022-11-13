@@ -177,5 +177,20 @@ def start_mappers():
 
 
 @event.listens_for(Boardgame, "load")
-def receive_load(boardgame, _):
+def boardgame_load(boardgame, _):
     boardgame.events = []
+
+
+@event.listens_for(Mechanic, "load")
+def mechanic_load(mechanic, _):
+    mechanic.events = []
+
+
+@event.listens_for(Category, "load")
+def category_load(category, _):
+    category.events = []
+
+
+@event.listens_for(Family, "load")
+def family_load(family, _):
+    family.events = []

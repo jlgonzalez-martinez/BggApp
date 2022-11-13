@@ -14,7 +14,7 @@ from boardgame.domain.model import (
     Family,
     Category,
 )
-from boardgame.domain.model.category import CategoryType
+from boardgame.domain.model.category import CategoryEnum
 from boardgame.services.unit_of_work import AbstractUnitOfWork
 
 if TYPE_CHECKING:
@@ -97,7 +97,7 @@ class LoaderService:
             if not category:
                 category = Category(
                     name=category_name,
-                    category_type=CategoryType.from_category(category_name),
+                    category_type=CategoryEnum.from_category(category_name),
                 )
                 self._uow.categories.add(category)
             boardgame.categories.append(category)
