@@ -5,6 +5,11 @@ on:
 jobs:
   build:
     uses: ./.github/workflows/build.yml
+  build-docker-image:
+    uses: ./.github/workflows/build-docker-image.yml
+    secrets:
+      username: ${{ secrets.DOCKERHUB_USERNAME }}
+      token: ${{ secrets.DOCKERHUB_TOKEN }}
   lint:
     uses: ./.github/workflows/lint.yml
     needs: build
